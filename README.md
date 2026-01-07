@@ -1,10 +1,9 @@
-## 👤 About Me
+## 👋 About Me
+Computer Engineering undergraduate with a growing focus on data analytics, working on hands-on projects using SQL, Python, and Power BI.
 
-I am an entry-level data analytics enthusiast focused on building hands-on projects using SQL and Python.  
-My work revolves around data cleaning, writing efficient queries, and designing structured datasets to support meaningful analysis.
+My work involves cleaning raw data, writing efficient SQL queries, and designing structured datasets to support meaningful analysis and reporting. I have worked on projects including inventory and pricing analysis, customer behavior analysis, and a basic data warehouse implementation using layered data design.
 
-I learn best by building complete projects from raw data to insights, debugging along the way, and understanding how data is actually used in real-world business scenarios.  
-Currently, I am strengthening my analytics fundamentals while gradually exploring data engineering concepts such as data modeling and layered data design.
+I prefer learning by building complete projects—from raw data to insights and dashboards—while steadily strengthening my analytics and data engineering fundamentals.
 
 ---
 
