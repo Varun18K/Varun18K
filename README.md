@@ -1,20 +1,40 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Entry-level data projects using SQL and Python, focusing on data cleaning, querying, and building structured datasets for analysis. Also developing a simple, professional portfolio to showcase my work.<br><br>👯 I’m looking to collaborate on<br>Beginner to intermediate projects involving SQL queries, data transformation, and basic analytics or dashboards.<br><br>🤝 I’m looking for help with<br>Mentorship, project reviews, and guidance on applying SQL and Python to real-world business problems.<br><br>🌱 I’m currently learning<br>SQL through hands-on problem solving, Python for data manipulation, and foundational concepts of data engineering and analytics.<br><br>💬 Ask me about<br>SQL joins, aggregations, filtering logic, data cleaning basics, and how to approach data projects as a fresher.<br><br>⚡ Fun fact<br>I prefer learning by building and debugging real projects rather than only following tutorials.
+## 👤 About Me
 
+I am an entry-level data analytics enthusiast focused on building hands-on projects using SQL and Python.  
+My work revolves around data cleaning, writing efficient queries, and designing structured datasets to support meaningful analysis.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Varun18K&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Varun18K&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Varun18K&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Varun18K&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I learn best by building complete projects from raw data to insights, debugging along the way, and understanding how data is actually used in real-world business scenarios.  
+Currently, I am strengthening my analytics fundamentals while gradually exploring data engineering concepts such as data modeling and layered data design.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Varun18K&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🤝 Open to
+- Collaborating on SQL and analytics projects  
+- Reviewing and improving data projects and queries  
+- Practical discussions around analytics workflows and data problems  
+
+---
+
+## 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/isthatvruun._)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/varun-p-karle/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karlevarun@gmail.com)
+
+---
+
+## 💻 Tech Stack
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Varun18k&theme=dark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Varun18k&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Varun18k&theme=dark&hide_border=false&layout=compact)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Varun18k&icon=0&color=0)](https://visitcount.itsvg.in)
