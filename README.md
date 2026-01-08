@@ -20,7 +20,6 @@ I prefer learning through **end-to-end projects**—from raw data to insights an
 
 
 
----
 
 ## 🤝 Open to
 - Collaborating on SQL and analytics projects  
