@@ -26,6 +26,14 @@ I prefer learning through **end-to-end projects**—from raw data to insights an
 - Reviewing and improving data projects and queries  
 - Practical discussions around analytics workflows  
 
+
+## 💻 Tech Stack
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+
 ---
 
 ## 🌐 Socials
@@ -33,9 +41,3 @@ I prefer learning through **end-to-end projects**—from raw data to insights an
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karlevarun@gmail.com)
 
 ---
-
-## 💻 Tech Stack
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
