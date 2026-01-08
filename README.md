@@ -18,9 +18,7 @@ I prefer learning through **end-to-end projects**—from raw data to insights an
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Varun18K&show_icons=true&hide=issues&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Varun18K&layout=compact&hide_border=true)
+
 
 ---
 
