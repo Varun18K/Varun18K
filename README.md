@@ -27,13 +27,3 @@ I prefer learning by building complete projects—from raw data to insights and 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
----
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Varun18k&theme=dark&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Varun18k&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Varun18k&theme=dark&hide_border=false&layout=compact)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Varun18k&icon=0&color=0)](https://visitcount.itsvg.in)
