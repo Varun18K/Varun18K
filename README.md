@@ -1,9 +1,12 @@
-## 👋 About Me
-Computer Engineering undergraduate with a focused interest in **data analytics and data engineering**, building hands-on projects using **SQL, Python, and Power BI**.
+##  About Me
+Hi, I'm Varun 👋
+Aspiring Data Engineer | SQL | Python | Data Modeling | ETL
 
-I work on transforming raw data into structured, analysis-ready datasets by cleaning data, writing efficient SQL queries, and designing schemas that support reliable reporting. My experience includes inventory and pricing analysis, content analytics, and a basic data warehouse-style layered data design.
+Computer Engineering undergraduate passionate about building reliable data systems and transforming raw data into structured, analysis-ready datasets.
 
-I prefer learning through **end-to-end projects**—from raw data to insights—while steadily strengthening analytics and data engineering fundamentals.
+My primary focus is Data Engineering, with hands-on experience in SQL-based data cleaning, schema design, data transformation, and ETL-style workflows. I enjoy working on end-to-end projects that involve collecting, cleaning, modeling, and preparing data for analytics and reporting.
+
+Currently, I am strengthening my skills in Data Warehousing, Cloud Technologies, and scalable data processing while building practical projects using SQL, Python, MySQL, and Power BI.
 
 ---
 
@@ -39,7 +42,7 @@ I prefer learning through **end-to-end projects**—from raw data to insights—
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 
 ---
 
