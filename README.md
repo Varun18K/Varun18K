@@ -13,7 +13,7 @@ Currently, I am strengthening my skills in Data Warehousing, Cloud Technologies,
 ## ⭐ Featured Projects
 
 ### 📦 Zepto Inventory & Pricing Analysis (MySQL)
-- Cleaned real-world inventory data (encoding issues, boolean normalization, paise → rupees conversion)  
+- Cleaned real-world inventory data  
 - Designed an analytics-ready table from raw data for reliable querying  
 - Analyzed stock availability, pricing, and discounts to estimate category-level revenue  
 
